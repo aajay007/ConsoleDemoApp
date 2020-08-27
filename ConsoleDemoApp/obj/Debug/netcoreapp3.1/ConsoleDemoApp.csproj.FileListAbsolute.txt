@@ -1,0 +1,13 @@
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\netcoreapp3.1\ConsoleDemoApp.exe
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\netcoreapp3.1\ConsoleDemoApp.deps.json
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\netcoreapp3.1\ConsoleDemoApp.runtimeconfig.json
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\netcoreapp3.1\ConsoleDemoApp.runtimeconfig.dev.json
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\netcoreapp3.1\ConsoleDemoApp.dll
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\bin\Debug\netcoreapp3.1\ConsoleDemoApp.pdb
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\netcoreapp3.1\ConsoleDemoApp.csprojAssemblyReference.cache
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\netcoreapp3.1\ConsoleDemoApp.AssemblyInfoInputs.cache
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\netcoreapp3.1\ConsoleDemoApp.AssemblyInfo.cs
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\netcoreapp3.1\ConsoleDemoApp.csproj.CoreCompileInputs.cache
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\netcoreapp3.1\ConsoleDemoApp.dll
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\netcoreapp3.1\ConsoleDemoApp.pdb
+D:\sys_office\Task\27th-Aug\ConsoleDemoApp\ConsoleDemoApp\obj\Debug\netcoreapp3.1\ConsoleDemoApp.genruntimeconfig.cache
