@@ -6,7 +6,6 @@ namespace ConsoleDemoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
             Console.WriteLine("Enter your firstName:");
 
