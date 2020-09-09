@@ -7,7 +7,7 @@ namespace ConsoleDemoApp
         static void Main(string[] args)
         {
 
-Console.WriteLine("Enter your firstName:");
+            Console.WriteLine("Hello World");
 
             Console.WriteLine("Enter your firstName:");
 
